@@ -1,0 +1,1 @@
+This project is practice code that follows along with a pytorch tutorial made by sentdex on Youtube.
